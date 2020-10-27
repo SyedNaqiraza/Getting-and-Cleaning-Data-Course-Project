@@ -4,8 +4,7 @@ In this project, data collected from the accelerometer and gyroscope of the Sams
 Files in this repository 
 1) Read.me ( This file generally tells us the instructions and guidelines of the repository )
 2) tidy_data.txt ( Contains Dataset )
-3) CodeBook.md (the code book, which describes the contents of the data set )
-4) run_analysis.R (the R script that was used to create the data set )
+3) run_analysis.R (the R script that was used to create the data set )
 
 
 
